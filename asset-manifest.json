@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GWP_ArgonDashboard/static/css/main.cbfcf9ab.css",
+    "main.js": "/GWP_ArgonDashboard/static/js/main.1a4cecd1.js",
+    "static/media/avatar.png": "/GWP_ArgonDashboard/static/media/avatar.0fd283d9c5ee5a1d9710.png",
+    "static/media/logo.png": "/GWP_ArgonDashboard/static/media/logo.586ae24aaf9f1ab4887d.png",
+    "index.html": "/GWP_ArgonDashboard/index.html",
+    "main.cbfcf9ab.css.map": "/GWP_ArgonDashboard/static/css/main.cbfcf9ab.css.map",
+    "main.1a4cecd1.js.map": "/GWP_ArgonDashboard/static/js/main.1a4cecd1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbfcf9ab.css",
+    "static/js/main.1a4cecd1.js"
+  ]
+}
